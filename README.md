@@ -1,7 +1,7 @@
 # svmlin-matlab
 SVMLIN is a fast implementation for linear support vector machine (SVM) and its semi-supervised version.
 
-This repo will show that how to use matlab 
+This repo will show that how to use SVMLIN with matlab. 
 
 - **Install MINGW 6.3.0**.
 You can download it from [here](https://sourceforge.net/projects/dcplusplus/files/Dev/MinGW/).
